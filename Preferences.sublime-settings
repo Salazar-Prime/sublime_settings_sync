@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	"font_face": "inconsolata",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Agila Dracula.sublime-theme",
+	"theme_agila_sidebar_large": true
+}
