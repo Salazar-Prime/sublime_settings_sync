@@ -2,10 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Rainmeter"
 	],
 	"installed_packages":
 	[
 		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
 		"ADBView",
 		"Agila Theme",
 		"ayu",
